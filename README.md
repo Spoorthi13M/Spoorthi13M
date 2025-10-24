@@ -1,163 +1,147 @@
-<!-- GitHub Profile README - HTML version -->
-<!-- Paste this HTML into your http://README.md (GitHub supports inline HTML inside Markdown) -->
-<div style="font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif; line-height:1.5; color:#0b1220; max-width:900px; margin: 12px auto; padding:18px; border-radius:12px; box-shadow: 0 6px 18px rgba(11,18,32,0.06); background: #ffffff;">
+````html
+<!-- 🌌 ADVANCED GITHUB PROFILE README FOR ARJUN KUMAR -->
+<!-- Drop this in your GitHub http://README.md file directly -->
 
-  <!-- Header / Hero -->
-  <div style="display:flex; gap:18px; align-items:center;">
-    <img src="https://avatars.githubusercontent.com/YOUR_GITHUB_USERNAME?s=200" alt="avatar" width="120" height="120" style="border-radius:16px; object-fit:cover; border:2px solid #e6eef8;">
-    <div>
-      <h1 style="margin:0; font-size:28px;">Hi — I'm <strong>YOUR_NAME</strong> 👋</h1>
-      <p style="margin:6px 0 0 0; color: #374151; max-width:650px;">
-        YOUR_BIO — short tagline: (e.g. Full-stack Developer, Django & React enthusiast, Open Source contributor). Passionate about building reliable, accessible web apps and clean developer experiences.
-      </p>
+<div align="center">
 
-      <!-- Quick action buttons -->
-      <div style="margin-top:10px; display:flex; gap:8px; flex-wrap:wrap;">
-        <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories" style="text-decoration:none;">
-          <button style="padding:8px 12px; border-radius:10px; border:1px solid #e6eef8; background:#f8fafc; cursor:pointer;">Explore Projects</button>
-        </a>
-        <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" style="text-decoration:none;">
-          <button style="padding:8px 12px; border-radius:10px; border:1px solid #0ea5a0; background:#ecfeff; cursor:pointer;">Connect on LinkedIn</button>
-        </a>
-        <a mailto:href="mailto:youremail@example.com" style="text-decoration:none;">
-          <button style="padding:8px 12px; border-radius:10px; border:1px solid #f97316; background:#fff7ed; cursor:pointer;">Email Me</button>
-        </a>
-        <a href="LINK_TO_YOUR_RESUME.pdf" style="text-decoration:none;">
-          <button style="padding:8px 12px; border-radius:10px; border:1px solid #60a5fa; background:#eff6ff; cursor:pointer;">Resume (PDF)</button>
-        </a>
-      </div>
-    </div>
-  </div>
+<!-- Animated Typing Title -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00E6E6&center=true&vCenter=true&width=600&lines=👨‍💻+Arjun+Kumar;Full+Stack+Developer;Django+%7C+React+%7C+FastAPI+%7C+DevOps;Innovator+%26+Open+Source+Contributor" alt="Typing SVG" />
+</h1>
 
-  <hr style="border:none; border-top:1px solid #eef2f7; margin:18px 0;">
+<!-- Gradient Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00E6E6&height=100&section=header" width="100%"/>
 
-  <!-- Key stats / badges -->
-  <div style="display:flex; gap:10px; flex-wrap:wrap; align-items:center;">
-    <!-- Example shields (replace the image URLs if needed) -->
-    <img src="https://img.shields.io/badge/Top%20Languages-Python-F0DB4F?logo=python&logoColor=white" alt="Python" style="height:24px;">
-    <img src="https://img.shields.io/badge/Frameworks-Django-092E20?logo=django&logoColor=white" alt="Django" style="height:24px;">
-    <img src="https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=white" alt="React" style="height:24px;">
-    <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS" style="height:24px;">
-    <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen" alt="Open to Work" style="height:24px;">
-  </div>
+<!-- Social Links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/arjun-kumar-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/arjun-dev-27" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a mailto:href="mailto:arjun.kumar.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://arjun-dev-portfolio.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00C2CB?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
+  </a>
+</p>
 
-  <!-- Skills section -->
-  <section style="margin-top:18px;">
-    <h2 style="margin:0 0 8px 0;">🛠️ Skills & Tools</h2>
-    <p style="margin:0 0 12px 0; color:#475569;">
-      Strong: <strong>Python</strong>, <strong>Django</strong>, <strong>REST APIs</strong> • Proficient: <strong>JavaScript</strong>, <strong>React</strong>, <strong>HTML/CSS</strong> • Familiar: Docker, CI/CD, PostgreSQL, Redis.
-    </p>
+---
 
-    <div style="display:flex; gap:8px; flex-wrap:wrap;">
-      <!-- Tech chips -->
-      <span style="padding:6px 8px; border-radius:999px; background:#f1f5f9; border:1px solid #e2e8f0;">Python</span>
-      <span style="padding:6px 8px; border-radius:999px; background:#f1f5f9; border:1px solid #e2e8f0;">Django</span>
-      <span style="padding:6px 8px; border-radius:999px; background:#f1f5f9; border:1px solid #e2e8f0;">Django REST Framework</span>
-      <span style="padding:6px 8px; border-radius:999px; background:#f1f5f9; border:1px solid #e2e8f0;">React</span>
-      <span style="padding:6px 8px; border-radius:999px; background:#f1f5f9; border:1px solid #e2e8f0;">JavaScript</span>
-      <span style="padding:6px 8px; border-radius:999px; background:#f1f5f9; border:1px solid #e2e8f0;">SQL / SQLite / PostgreSQL</span>
-      <span style="padding:6px 8px; border-radius:999px; background:#f1f5f9; border:1px solid #e2e8f0;">Git</span>
-      <span style="padding:6px 8px; border-radius:999px; background:#f1f5f9; border:1px solid #e2e8f0;">Docker</span>
-    </div>
-  </section>
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=arjun-dev-27&theme=onestar&no-frame=true&margin-w=10&margin-h=10&column=6" />
 
-  <!-- Projects -->
-  <section style="margin-top:20px;">
-    <h2 style="margin:0 0 8px 0;">🚀 Featured Projects</h2>
+---
 
-    <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap:12px;">
-      <!-- Project card 1 -->
-      <article style="padding:12px; border-radius:12px; border:1px solid #eef2f7; background:#fff;">
-        <h3 style="margin:0 0 6px 0;">Project One — LAW EDIFY</h3>
-        <p style="margin:0 0 8px 0; color:#475569; font-size:14px;">
-          NLP-based legal knowledge assistant. Tech: <strong>Python</strong>, <strong>NLTK</strong>, <strong>TF-IDF</strong>, Gradio demo.
-        </p>
-        <div style="display:flex; gap:8px; margin-top:8px;">
-          <a href="https://github.com/YOUR_GITHUB_USERNAME/law-edify" style="text-decoration:none;"><button style="padding:6px 10px; border-radius:8px; border:1px solid #dbeafe;">Repo</button></a>
-          <a href="LINK_TO_DEMO" style="text-decoration:none;"><button style="padding:6px 10px; border-radius:8px; border:1px solid #d1fae5;">Live</button></a>
-        </div>
-      </article>
+## 🧠 Tech Universe
 
-      <!-- Project card 2 -->
-      <article style="padding:12px; border-radius:12px; border:1px solid #eef2f7; background:#fff;">
-        <h3 style="margin:0 0 6px 0;">Project Two — Travel Guide</h3>
-        <p style="margin:0 0 8px 0; color:#475569; font-size:14px;">
-          Django travel guide with authentication, activities, media uploads, and admin CRUD.
-        </p>
-        <div style="display:flex; gap:8px; margin-top:8px;">
-          <a href="https://github.com/YOUR_GITHUB_USERNAME/travel-guide" style="text-decoration:none;"><button style="padding:6px 10px; border-radius:8px; border:1px solid #dbeafe;">Repo</button></a>
-        </div>
-      </article>
+### 💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,sql" />
+</p>
 
-      <!-- Project card 3 -->
-      <article style="padding:12px; border-radius:12px; border:1px solid #eef2f7; background:#fff;">
-        <h3 style="margin:0 0 6px 0;">Project Three — Photo Gallery</h3>
-        <p style="margin:0 0 8px 0; color:#475569; font-size:14px;">
-          Gallery app with soft delete, tags, restore, and image uploads. Built with Django.
-        </p>
-        <div style="display:flex; gap:8px; margin-top:8px;">
-          <a href="https://github.com/YOUR_GITHUB_USERNAME/memory-lane" style="text-decoration:none;"><button style="padding:6px 10px; border-radius:8px; border:1px solid #dbeafe;">Repo</button></a>
-        </div>
-      </article>
-    </div>
-  </section>
+### 🧩 Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,fastapi,react,bootstrap,tailwind" />
+</p>
 
-  <!-- Experience / Timeline -->
-  <section style="margin-top:20px;">
-    <h2 style="margin:0 0 8px 0;">💼 Experience</h2>
-    <div style="display:flex; flex-direction:column; gap:10px; color:#475569; font-size:14px;">
-      <div style="padding:10px; border-radius:10px; border:1px dashed #eef2f7;">
-        <strong>Associate Software Engineer</strong> — TestYantra Software Solutions (Location) <br>
-        <small>Dates: MONTH YEAR – Present</small>
-        <p style="margin:6px 0 0 0;">Worked on web applications using Django & JavaScript. Responsibilities: Auth, REST APIs, media handling, deploys.</p>
-      </div>
+### ☁️ DevOps & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,aws" />
+</p>
 
-      <div style="padding:10px; border-radius:10px; border:1px dashed #eef2f7;">
-        <strong>Intern / Project Lead</strong> — CONTRIVER-MYSORE <br>
-        <small>Aug 2023 – Sep 2023</small>
-        <p style="margin:6px 0 0 0;">Training in Web Technology, AI & ML. Internship Excellence award.</p>
-      </div>
-    </div>
-  </section>
+---
 
-  <!-- Education -->
-  <section style="margin-top:20px;">
-    <h2 style="margin:0 0 8px 0;">🎓 Education</h2>
-    <p style="margin:0; color:#475569; font-size:14px;">
-      B.E. / http://B.Tech — <strong>Your University</strong> • Graduation year: YEAR
-    </p>
-  </section>
+## 📈 GitHub Performance Dashboard
 
-  <!-- Open source contributions & badges -->
-  <section style="margin-top:20px;">
-    <h2 style="margin:0 0 8px 0;">🌱 Open Source & Stats</h2>
-    <p style="margin:0 0 12px 0; color:#475569; font-size:14px;">
-      I contribute to open-source projects and enjoy improving docs, tests, and core features.
-    </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arjun-dev-27&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&line_height=24&custom_title=🚀+Arjun's+GitHub+Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=arjun-dev-27&theme=tokyonight&hide_border=true&fire=00E6E6&ring=00E6E6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-dev-27&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</div>
 
-    <!-- GitHub Readme Stats (third-party images) - Replace username -->
-    <div style="display:flex; flex-wrap:wrap; gap:12px; align-items:center;">
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" alt="github-stats" style="border-radius:12px; max-width:420px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default" alt="streak" style="border-radius:12px; max-width:420px;">
-    </div>
-  </section>
+---
 
-  <!-- Contact -->
-  <section style="margin-top:20px;">
-    <h2 style="margin:0 0 8px 0;">✉️ Contact & Socials</h2>
-    <div style="display:flex; gap:12px; flex-wrap:wrap;">
-      <a href="https://twitter.com/YOUR_TWITTER" style="text-decoration:none;">Twitter</a>
-      <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" style="text-decoration:none;">LinkedIn</a>
-      <a mailto:href="mailto:youremail@example.com" style="text-decoration:none;">Email</a>
-      <a href="https://www.youtube.com/channel/YOUR_CHANNEL" style="text-decoration:none;">YouTube</a>
-    </div>
-    <p style="margin-top:10px; color:#64748b; font-size:13px;">Prefer direct messages on LinkedIn or email for hiring & collaboration.</p>
-  </section>
+## 🪐 Contribution Galaxy
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arjun-dev-27&bg_color=0d1117&color=00E6E6&line=00E6E6&point=FFFFFF&area=true&hide_border=true&custom_title=🌟+Contribution+Graph"/>
+</div>
 
-  <hr style="border:none; border-top:1px solid #eef2f7; margin:18px 0;">
+---
 
-  <p style="font-size:13px; color:#94a3b8; margin:0;">
-    Built with ❤️ • Customize this README to add more projects, a contributions graph, or interactive demos.
+## 🚀 Featured Projects
+
+<details>
+  <summary><b>💼 SkillSprint – Online Learning Platform</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="450">
   </p>
+  <ul>
+    <li>Full-Stack learning platform with instructor-student dashboards.</li>
+    <li>REST API with authentication and certificate generation.</li>
+    <li>Responsive frontend with Tailwind CSS & Bootstrap 5.</li>
+  </ul>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
+    <img src="https://img.shields.io/badge/REST_API-00C2CB?style=flat">
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
+  </p>
+</details>
+
+<details>
+  <summary><b>🏡 3D House Visualizer – Computer Vision</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450">
+  </p>
+  <ul>
+    <li>3D projection system for house visualization using OpenCV.</li>
+    <li>Implemented rotation, scaling, and realistic shadow rendering.</li>
+    <li>Built with NumPy matrix transformations and perspective mapping.</li>
+  </ul>
+  <p align="center">
+    <img src="https://img.shields.io/badge/OpenCV-27338E?style=flat&logo=opencv&logoColor=white">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue">
+  </p>
+</details>
+
+---
+
+## 🧭 Recent Activity
+<!--START_SECTION:activity-->
+1. ⚡ Created repository [arjun-dev-27/Django-FastAPI-Starter]  
+2. 🔥 Merged PR [#7] in [arjun-dev-27/SkillSprint]  
+3. 🚀 Deployed project [Portfolio Website] on Netlify  
+4. 🧠 Contributed to [Open Source FastAPI Repo]  
+<!--END_SECTION:activity-->
+
+---
+
+## 🕓 Coding Stats
+```text
+Python       ████████████████████░░░░   82% 
+JavaScript   ████████████░░░░░░░░░░░   58%
+HTML/CSS     ████████████░░░░░░░░░░░   64%
+SQL          ████████░░░░░░░░░░░░░░░   45%
+````
+
+---
+
+## ✨ About Me
+
+🎯 **Building scalable web apps with modern Python frameworks.**
+🌱 Currently exploring **AI integrations with FastAPI & React**.
+💬 Ask me about **APIs, backend architecture, or full-stack projects**.
+⚡ Fun Fact: “My code runs faster than my coffee machine.” ☕
+
+---
+
+<!-- Footer with Animated Wave -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00E6E6&height=100&section=footer" width="100%"/>
 
 </div>
