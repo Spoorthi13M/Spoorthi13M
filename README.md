@@ -54,23 +54,6 @@
 
 ---
 
-## 📈 GitHub Performance Dashboard
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arjun-dev-27&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&line_height=24&custom_title=🚀+Arjun's+GitHub+Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=arjun-dev-27&theme=tokyonight&hide_border=true&fire=00E6E6&ring=00E6E6" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-dev-27&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</div>
-
----
-
-## 🪐 Contribution Galaxy
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arjun-dev-27&bg_color=0d1117&color=00E6E6&line=00E6E6&point=FFFFFF&area=true&hide_border=true&custom_title=🌟+Contribution+Graph"/>
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <details>
