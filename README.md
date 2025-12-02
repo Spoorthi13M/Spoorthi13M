@@ -39,12 +39,12 @@
 
 ### 🧩 Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,matploptlib,seaborn" />
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matploptlib,seaborn,statastics" />
 </p>
 
 ### ☁️ DevOps & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pycharm,powerbi,excel" />
+  <img src="https://skillicons.dev/icons?i=pycharm,powerbi,msexcel" />
 </p>
 
 ---
