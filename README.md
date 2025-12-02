@@ -30,26 +30,21 @@
 
 ---
 
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=arjun-dev-27&theme=onestar&no-frame=true&margin-w=10&margin-h=10&column=6" />
-
----
-
 ## 🧠 Tech Universe
 
 ### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=python,sql" />
 </p>
 
 ### 🧩 Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,fastapi,react,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matploptlib,seaborn" />
 </p>
 
 ### ☁️ DevOps & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,aws" />
+  <img src="https://skillicons.dev/icons?i=pycharm,powerbi,excel" />
 </p>
 
 ---
